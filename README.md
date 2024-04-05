@@ -12,7 +12,7 @@ The Notes Application is a web-based tool designed to help users manage their no
 
 ## Demo
 
-You can try out the live demo of the Notes Application [here](https://example.com).
+You can try out the live demo of the Notes Application [here](https://aishwaryamensinkai.github.io/Notes-App/).
 
 ## Technologies Used
 
